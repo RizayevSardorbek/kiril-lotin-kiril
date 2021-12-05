@@ -1,0 +1,1 @@
+web: python Sardor_bot_Telgram.py
